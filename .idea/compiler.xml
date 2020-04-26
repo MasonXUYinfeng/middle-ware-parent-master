@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ware04-swagger-two" />
+        <module name="ware16-zoo-keeper" />
+        <module name="kafka-consumer-server" />
+        <module name="block-dubbo-provider" />
+        <module name="file03-xml-manage" />
+        <module name="ware15-source-data" />
+        <module name="file04-csv-manage" />
+        <module name="ware11-shiro-auth" />
+        <module name="ware17-regist-nacos" />
+        <module name="block-dubbo-consume" />
+        <module name="ware02-email-send" />
+        <module name="ware14-drool-rule" />
+        <module name="ware09-jwt-token" />
+        <module name="ware06-redis-cluster" />
+        <module name="file02-pdf-manage" />
+        <module name="block-dubbo-common" />
+        <module name="ware12-security-auth" />
+        <module name="file01-excel-manage" />
+        <module name="ware08-elastic-search" />
+        <module name="ware01-shard-jdbc" />
+        <module name="ware15-plus-batis" />
+        <module name="ware05-quart-job" />
+        <module name="kafka-producer-server" />
+        <module name="ware03-rocket-queue" />
+        <module name="ware13-click-house" />
+        <module name="ware10-fast-dfs" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="block-dubbo-common" target="1.8" />
+      <module name="block-dubbo-consume" target="1.8" />
+      <module name="block-dubbo-provider" target="1.8" />
+      <module name="file01-excel-manage" target="1.8" />
+      <module name="file02-pdf-manage" target="1.8" />
+      <module name="file03-xml-manage" target="1.8" />
+      <module name="file04-csv-manage" target="1.8" />
+      <module name="kafka-consumer-server" target="1.8" />
+      <module name="kafka-producer-server" target="1.8" />
+      <module name="middle-ware-parent" target="1.8" />
+      <module name="ware01-shard-jdbc" target="1.8" />
+      <module name="ware02-email-send" target="1.8" />
+      <module name="ware03-rocket-queue" target="1.8" />
+      <module name="ware04-swagger-two" target="1.8" />
+      <module name="ware05-quart-job" target="1.8" />
+      <module name="ware06-redis-cluster" target="1.8" />
+      <module name="ware07-dubbo-parent" target="1.8" />
+      <module name="ware08-elastic-search" target="1.8" />
+      <module name="ware09-jwt-token" target="1.8" />
+      <module name="ware10-fast-dfs" target="1.8" />
+      <module name="ware11-shiro-auth" target="1.8" />
+      <module name="ware12-security-auth" target="1.8" />
+      <module name="ware13-click-house" target="1.8" />
+      <module name="ware14-drool-rule" target="1.8" />
+      <module name="ware15-plus-batis" target="1.8" />
+      <module name="ware15-source-data" target="1.8" />
+      <module name="ware16-zoo-keeper" target="1.8" />
+      <module name="ware17-regist-nacos" target="1.8" />
+      <module name="ware18-file-parent" target="1.8" />
+      <module name="ware19-kafka-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
